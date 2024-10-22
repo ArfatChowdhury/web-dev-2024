@@ -1,8 +1,48 @@
 body {
     font-family: "Open Sans", serif;
     font-optical-sizing: auto;
-    font-weight: 400; /* Adjust to the correct weight (e.g., 400 for normal, 700 for bold) */
-    font-style: normal;
-    font-variation-settings: "wdth" 100, "wght" 400; /* 'wght' refers to font-weight, replace 400 with the desired value */
-  }
-  
+    font-weight: 400;
+    /* font-style: normal; */
+    font-variation-settings: "wght" 400, 800;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+    
+}
+
+nav li a {
+    text-decoration: none;
+    color: #474747;
+}
+
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+
+.nav-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+.nav-button{
+    width: 120px;
+    height: 50px;
+    background-color: #FD6E0A;
+    border: none;
+    color: white;
+    font-weight: 700;
+}
