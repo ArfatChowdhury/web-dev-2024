@@ -1,0 +1,8 @@
+body {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* Adjust to the correct weight (e.g., 400 for normal, 700 for bold) */
+    font-style: normal;
+    font-variation-settings: "wdth" 100, "wght" 400; /* 'wght' refers to font-weight, replace 400 with the desired value */
+  }
+  
