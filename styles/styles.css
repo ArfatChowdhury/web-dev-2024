@@ -83,3 +83,42 @@ nav li a {
 .banner-con{
     max-width: 500px;
 }
+.aboutus-con{
+background-color: #FFF8F3;
+}
+.about-bold{
+    font-weight: 700;
+}
+.about-info h1{
+    font-size: 30px;
+}
+.about-info{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+}
+.aboutus-con{
+    margin: 200px ;
+    padding: 144px;
+    text-align: center;
+}
+.about-tittle{
+    font-size: 35px;
+    font-weight: bold;
+}
+.about-des{
+    color: #757575;
+}
+.whatido-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.whatido-des{
+    color: #757575;
+}
+.whatido-con{
+    margin: 200px ;
+    padding: 144px;
+    text-align: center;
+}
