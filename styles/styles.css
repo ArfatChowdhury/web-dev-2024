@@ -191,3 +191,25 @@ background-color: #FFF8F3;
 .hori{
     color: #757575;
 }
+footer{
+    /* margin: 200px ; */
+    padding: 200px;
+    background-color: #FFF8F3;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+    
+}
+.footer-one, .form-con{
+    max-width: 432px;
+    
+}
+form input{
+    display: block;
+    width: 341px; 
+    height: 40px;
+    margin: 10px;
+}
+textarea{
+    margin: 10px;
+}
