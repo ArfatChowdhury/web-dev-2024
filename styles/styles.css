@@ -132,7 +132,7 @@ background-color: #FFF8F3;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin: 20px 140px 140px 140px ;
+    margin: 20px 144px 144px 144px ;
     /* padding: 100px; */
     gap: 24px;
 }
@@ -151,5 +151,43 @@ background-color: #FFF8F3;
     font-size: 20px;
 }
 .card-des{
+    color: #757575;
+}
+.resume-tittle{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.resume-main-con{
+    display: flex;
+    justify-content: space-around;
+    gap: 75px;
+    
+    /* max-width: 700px; */
+}
+.edu-tittle{
+    font-size: 30px;
+    font-weight: bold;
+}
+.edu-subject{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+}
+.edu-col{
+    font-size: 25px;
+    font-weight: 500;
+    color: #757575;
+}
+.resume-con{
+    margin: 160px ;
+    /* padding: 140px; */
+    gap: 24px;
+}
+.resume-main-tittle{
+    font-size: 30px;
+    font-weight: bold;
+}
+.hori{
     color: #757575;
 }
